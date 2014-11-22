@@ -2,3 +2,6 @@
 ===================
 2-Dimensional platformer with multiple characters and loose plot elements. Plan to add greater depth and perhaps more distinction between characters as development progresses.
 
+To begin the game, run Runner.java.
+
+Developed by Jack Tunstall, Michael Hankin and Sam Barani.
