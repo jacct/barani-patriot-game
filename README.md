@@ -4,4 +4,5 @@
 
 To begin the game, run Runner.java.
 
-Developed by Jack Tunstall, Michael Hankin and Sam Barani.
+Developed by Jack Tunstall and Michael Hankin
+Many thanks to Sam Barani for his contributions to the original engine
